@@ -9,6 +9,6 @@ export const experiences = [
     id: 2,
     title: 'Research and developement',
     company: "Indian Institute of Technology, Dharwad",
-    duration: "(FEB 2024 - Present)"
+    duration: "(AUG 2023 - DEC 2024)"
   }
 ]
