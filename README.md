@@ -13,7 +13,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![](./public/image/screenimg.png)
 
 ## View live preview [here](https://myportfolio-hof3.vercel.app/).
 
