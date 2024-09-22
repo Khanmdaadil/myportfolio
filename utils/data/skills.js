@@ -18,7 +18,7 @@ export const skillsData = [
   'Firebase',
   'Java',
   'Spring Boot',
-  'Cypher Query Language',
+  'CypherQueryLanguage',
   'Python',
   'Cloud Security',
 ]
