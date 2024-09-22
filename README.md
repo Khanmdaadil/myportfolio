@@ -113,20 +113,20 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Aadil Khan",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is Aadil Khan....",
+  email: "khanmdadil34@gmail.com",
+  phone: "+919129925706",
+  address: "Pratapgarh , UttarPradesh",
+  github: "https://github.com/Khanmdaadil/",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/khanmdadil34/",
+  twitter: "",
+  stackOverflow: "",
+  leetcode: "https://leetcode.com/u/khanmdadil34/",
+  devUsername: "aadilkhandev",
   resume: "...",
 };
 ```
