@@ -73,11 +73,21 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import Neo4J from '/public/svg/skills/Neo4j.svg';
+import springboot from '/public/svg/skills/springboot.svg';
+import security from '/public/svg/skills/security.svg';
+import neo4j from '/public/svg/skills/neo4j.svg';
+
 
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'cypherlanguage':
+      return neo4j;
+    case 'cloudsecurity':
+      return security;
+    case 'springboot':
+      return springboot;
     case 'gcp':
       return gcp;
     case 'html':

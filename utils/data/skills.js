@@ -17,10 +17,10 @@ export const skillsData = [
   'Figma',
   'Firebase',
   'Java',
-  'Spring Boot',
-  'CypherQueryLanguage',
+  'SpringBoot',
+  'CypherLanguage',
   'Python',
-  'Cloud Security',
+  'CloudSecurity',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
